@@ -28,7 +28,7 @@ SECRET_KEY = 'django-insecure-0hkxfv97%3ozxl@o8x!r1g-005uur9*q#&reshx_cvk-f$*rmh
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['cookie-grabber.onrender.com']
+ALLOWED_HOSTS = ['docs-oneinbox.onrender.com']
 
 
 # Application definition
